@@ -1,4 +1,4 @@
-require(unit_tester.php);
+include(unit_tester.php);
 
 <html>
  <head>
