@@ -1,5 +1,3 @@
-include(unit_tester.php);
-
 <html>
  <head>
   <title>Test PHP</title>
