@@ -18,5 +18,3 @@
     $v = new Vehicule;
     checkVitesse($v);
 ?>
-</body>
-</html>
