@@ -1,4 +1,4 @@
-import unit_tester.php
+require (unit_tester.php);
 
 <html>
  <head>
